@@ -1,0 +1,7 @@
+{
+  "name": "Smallapps",
+  "dependencies": {
+    "bootstrap": "*",
+    "fontawesome": "~4.3.0"
+  }
+}
